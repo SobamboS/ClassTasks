@@ -1,5 +1,7 @@
 package dataStructure;
 
+import Employee.dataStructure.List;
+
 public class ArrayList implements List{
     private boolean isEmpty = true;
     private int count;

@@ -1,4 +1,4 @@
-package dataStructure;
+package Employee.dataStructure;
 
 public interface List {
     void add(String item);
